@@ -1,6 +1,6 @@
 # Wayback WordPress Recovery
 
-Recover candidate WordPress articles from Internet Archive snapshots into a **draft-only WordPress WXR import**. This is an experimental best-effort extractor, not a complete backup solution.
+Recover your old WordPress blog from Internet Archive snapshots into a **draft-only WordPress WXR import**. This is an experimental best-effort extractor, not a complete backup solution.
 
 ## Setup
 
