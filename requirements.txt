@@ -1,0 +1,6 @@
+requests>=2.31,<3
+urllib3>=1.26,<2
+beautifulsoup4>=4.12,<5
+lxml>=4.9,<7
+python-dateutil>=2.8,<3
+python-dotenv>=1.0,<2
